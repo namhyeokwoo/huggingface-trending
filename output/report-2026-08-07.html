@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<title>HF 트렌딩 모델 — 2026-08-07</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root { --bg:#0f172a; --card:#1e293b; --text:#e2e8f0; --muted:#94a3b8;
+          --accent:#f59e0b; --up:#34d399; --down:#f87171; --border:#334155; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:2rem 1rem 4rem; background:var(--bg); color:var(--text);
+         font-family:-apple-system,"Segoe UI",Pretendard,sans-serif; }
+  .wrap { max-width:960px; margin:0 auto; }
+  h1 { font-size:1.5rem; margin:0 0 .25rem; }
+  .sub { color:var(--muted); font-size:.9rem; margin:0 0 1.5rem; }
+  nav.links { margin:0 0 1.5rem; display:flex; gap:1rem; }
+  nav.links a { color:var(--accent); text-decoration:none; font-size:.9rem; }
+  nav.links a:hover { text-decoration:underline; }
+  .note { background:var(--card); border:1px solid var(--border); border-radius:8px;
+          padding:.75rem 1rem; font-size:.85rem; color:var(--muted); margin-bottom:1.5rem; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border-radius:8px;
+          overflow:hidden; margin-bottom:2rem; }
+  th, td { padding:.6rem .8rem; text-align:right; border-bottom:1px solid var(--border);
+           font-size:.9rem; }
+  th:nth-child(2), td.model { text-align:left; }
+  th { color:var(--muted); font-weight:600; font-size:.8rem; text-transform:uppercase; }
+  td.rank { color:var(--muted); width:2.5rem; }
+  td.model a { color:var(--text); text-decoration:none; font-weight:500; }
+  td.model a:hover { text-decoration:underline; }
+  .tag { display:block; color:var(--muted); font-size:.75rem; }
+  .delta.up { color:var(--up); }
+  .delta.down { color:var(--down); }
+  .delta.flat { color:var(--muted); }
+  h2 { font-size:1.1rem; margin:0 0 .75rem; }
+</style></head>
+<body><div class="wrap">
+  <h1>🤗 Hugging Face 트렌딩 모델</h1>
+  <p class="sub">2026-08-07 09:00 KST 기준 수집 · 좋아요 내림차순</p>
+  <nav class="links">
+    <a href="trends.html">📈 모델 추이 보기</a>
+    <a href="index.html">🗂 지난 리포트</a>
+  </nav>
+  <div class="note">ℹ️ 아직 이전 스냅샷이 없어 증가폭 대신 좋아요 순으로 표시합니다. 다음날부터 증가폭(Δ) 랭킹이 표시됩니다.</div>
+  <table>
+    <thead><tr><th></th><th>Model</th><th>Likes</th><th>Downloads</th></tr></thead>
+    <tbody>
+    <tr>
+      <td class="rank">1</td>
+      <td class="model"><a href="https://huggingface.co/black-forest-labs/FLUX.1-dev" target="_blank" rel="noopener">black-forest-labs/FLUX.1-dev</a>
+        <span class="tag">text-to-image</span></td>
+      <td>14,018</td>
+      <td>512,841</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">2</td>
+      <td class="model"><a href="https://huggingface.co/deepseek-ai/DeepSeek-R1" target="_blank" rel="noopener">deepseek-ai/DeepSeek-R1</a>
+        <span class="tag">text-generation</span></td>
+      <td>13,548</td>
+      <td>9,405,763</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">3</td>
+      <td class="model"><a href="https://huggingface.co/moonshotai/Kimi-K3" target="_blank" rel="noopener">moonshotai/Kimi-K3</a>
+        <span class="tag">image-text-to-text</span></td>
+      <td>10,249</td>
+      <td>1,308,186</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">4</td>
+      <td class="model"><a href="https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0" target="_blank" rel="noopener">stabilityai/stable-diffusion-xl-base-1.0</a>
+        <span class="tag">text-to-image</span></td>
+      <td>8,021</td>
+      <td>1,401,961</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">5</td>
+      <td class="model"><a href="https://huggingface.co/CompVis/stable-diffusion-v1-4" target="_blank" rel="noopener">CompVis/stable-diffusion-v1-4</a>
+        <span class="tag">text-to-image</span></td>
+      <td>7,048</td>
+      <td>432,806</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">6</td>
+      <td class="model"><a href="https://huggingface.co/hexgrad/Kokoro-82M" target="_blank" rel="noopener">hexgrad/Kokoro-82M</a>
+        <span class="tag">text-to-speech</span></td>
+      <td>6,654</td>
+      <td>11,658,420</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">7</td>
+      <td class="model"><a href="https://huggingface.co/meta-llama/Meta-Llama-3-8B" target="_blank" rel="noopener">meta-llama/Meta-Llama-3-8B</a>
+        <span class="tag">text-generation</span></td>
+      <td>6,623</td>
+      <td>2,006,988</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">8</td>
+      <td class="model"><a href="https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct" target="_blank" rel="noopener">meta-llama/Llama-3.1-8B-Instruct</a>
+        <span class="tag">text-generation</span></td>
+      <td>6,544</td>
+      <td>7,666,987</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">9</td>
+      <td class="model"><a href="https://huggingface.co/openai/whisper-large-v3" target="_blank" rel="noopener">openai/whisper-large-v3</a>
+        <span class="tag">automatic-speech-recognition</span></td>
+      <td>6,109</td>
+      <td>5,253,587</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">10</td>
+      <td class="model"><a href="https://huggingface.co/black-forest-labs/FLUX.1-schnell" target="_blank" rel="noopener">black-forest-labs/FLUX.1-schnell</a>
+        <span class="tag">text-to-image</span></td>
+      <td>5,498</td>
+      <td>210,846</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">11</td>
+      <td class="model"><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro" target="_blank" rel="noopener">deepseek-ai/DeepSeek-V4-Pro</a>
+        <span class="tag">text-generation</span></td>
+      <td>5,392</td>
+      <td>1,561,291</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">12</td>
+      <td class="model"><a href="https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2" target="_blank" rel="noopener">sentence-transformers/all-MiniLM-L6-v2</a>
+        <span class="tag">sentence-similarity</span></td>
+      <td>5,186</td>
+      <td>248,935,735</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">13</td>
+      <td class="model"><a href="https://huggingface.co/Tongyi-MAI/Z-Image-Turbo" target="_blank" rel="noopener">Tongyi-MAI/Z-Image-Turbo</a>
+        <span class="tag">text-to-image</span></td>
+      <td>5,094</td>
+      <td>1,064,884</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">14</td>
+      <td class="model"><a href="https://huggingface.co/openai/gpt-oss-120b" target="_blank" rel="noopener">openai/gpt-oss-120b</a>
+        <span class="tag">text-generation</span></td>
+      <td>5,083</td>
+      <td>4,138,863</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">15</td>
+      <td class="model"><a href="https://huggingface.co/bigscience/bloom" target="_blank" rel="noopener">bigscience/bloom</a>
+        <span class="tag">text-generation</span></td>
+      <td>5,033</td>
+      <td>11,518</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">16</td>
+      <td class="model"><a href="https://huggingface.co/stabilityai/stable-diffusion-3-medium" target="_blank" rel="noopener">stabilityai/stable-diffusion-3-medium</a>
+        <span class="tag">text-to-image</span></td>
+      <td>5,009</td>
+      <td>8,380</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">17</td>
+      <td class="model"><a href="https://huggingface.co/openai/gpt-oss-20b" target="_blank" rel="noopener">openai/gpt-oss-20b</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,884</td>
+      <td>8,229,095</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">18</td>
+      <td class="model"><a href="https://huggingface.co/zai-org/GLM-5.2" target="_blank" rel="noopener">zai-org/GLM-5.2</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,882</td>
+      <td>2,430,330</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">19</td>
+      <td class="model"><a href="https://huggingface.co/meta-llama/Llama-2-7b-chat-hf" target="_blank" rel="noopener">meta-llama/Llama-2-7b-chat-hf</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,816</td>
+      <td>733,734</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">20</td>
+      <td class="model"><a href="https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct" target="_blank" rel="noopener">meta-llama/Meta-Llama-3-8B-Instruct</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,799</td>
+      <td>1,778,885</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">21</td>
+      <td class="model"><a href="https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1" target="_blank" rel="noopener">mistralai/Mixtral-8x7B-Instruct-v0.1</a>
+        <span class="tag"></span></td>
+      <td>4,721</td>
+      <td>803,680</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">22</td>
+      <td class="model"><a href="https://huggingface.co/meta-llama/Llama-2-7b" target="_blank" rel="noopener">meta-llama/Llama-2-7b</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,522</td>
+      <td>133</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">23</td>
+      <td class="model"><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3" target="_blank" rel="noopener">deepseek-ai/DeepSeek-V3</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,169</td>
+      <td>1,154,814</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">24</td>
+      <td class="model"><a href="https://huggingface.co/mistralai/Mistral-7B-v0.1" target="_blank" rel="noopener">mistralai/Mistral-7B-v0.1</a>
+        <span class="tag">text-generation</span></td>
+      <td>4,136</td>
+      <td>673,982</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">25</td>
+      <td class="model"><a href="https://huggingface.co/lllyasviel/ControlNet-v1-1" target="_blank" rel="noopener">lllyasviel/ControlNet-v1-1</a>
+        <span class="tag"></span></td>
+      <td>4,102</td>
+      <td>0</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">26</td>
+      <td class="model"><a href="https://huggingface.co/baidu/Unlimited-OCR" target="_blank" rel="noopener">baidu/Unlimited-OCR</a>
+        <span class="tag">image-text-to-text</span></td>
+      <td>3,942</td>
+      <td>2,836,694</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">27</td>
+      <td class="model"><a href="https://huggingface.co/WarriorMama777/OrangeMixs" target="_blank" rel="noopener">WarriorMama777/OrangeMixs</a>
+        <span class="tag">text-to-image</span></td>
+      <td>3,928</td>
+      <td>573</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">28</td>
+      <td class="model"><a href="https://huggingface.co/lllyasviel/ControlNet" target="_blank" rel="noopener">lllyasviel/ControlNet</a>
+        <span class="tag"></span></td>
+      <td>3,834</td>
+      <td>3</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">29</td>
+      <td class="model"><a href="https://huggingface.co/coqui/XTTS-v2" target="_blank" rel="noopener">coqui/XTTS-v2</a>
+        <span class="tag">text-to-speech</span></td>
+      <td>3,714</td>
+      <td>8,681,181</td>
+      
+    </tr>
+    <tr>
+      <td class="rank">30</td>
+      <td class="model"><a href="https://huggingface.co/stabilityai/stable-diffusion-3.5-large" target="_blank" rel="noopener">stabilityai/stable-diffusion-3.5-large</a>
+        <span class="tag">text-to-image</span></td>
+      <td>3,674</td>
+      <td>65,734</td>
+      
+    </tr></tbody>
+  </table>
+  
+</div></body></html>
