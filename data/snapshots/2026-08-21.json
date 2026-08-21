@@ -1,0 +1,4768 @@
+{
+  "date": "2026-08-21",
+  "fetched_at": "2026-08-21T10:19:28.551357+09:00",
+  "source": "huggingface.co/api/models",
+  "models": [
+    {
+      "id": "black-forest-labs/FLUX.1-dev",
+      "likes": 14200,
+      "downloads": 606804,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-07-31T21:13:44.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-R1",
+      "likes": 13581,
+      "downloads": 6388560,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-01-20T03:46:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 11747,
+      "downloads": 1373584,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-08-05T08:22:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "moonshotai/Kimi-K3",
+      "likes": 10883,
+      "downloads": 2349853,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-06-13T06:42:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "likes": 8056,
+      "downloads": 1572338,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-07-25T13:25:51.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "CompVis/stable-diffusion-v1-4",
+      "likes": 7054,
+      "downloads": 439447,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2022-08-20T13:26:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "hexgrad/Kokoro-82M",
+      "likes": 6728,
+      "downloads": 12670560,
+      "pipeline_tag": "text-to-speech",
+      "library_name": null,
+      "createdAt": "2024-12-26T00:20:08.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "likes": 6638,
+      "downloads": 7069520,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-07-18T08:56:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Meta-Llama-3-8B",
+      "likes": 6630,
+      "downloads": 1602131,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-04-17T09:35:16.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/whisper-large-v3",
+      "likes": 6164,
+      "downloads": 4818588,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2023-11-07T18:41:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "likes": 5579,
+      "downloads": 429787,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-07-31T19:58:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "likes": 5466,
+      "downloads": 1182759,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-04-22T06:04:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "likes": 5227,
+      "downloads": 257677220,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "likes": 5127,
+      "downloads": 832020,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-11-25T15:09:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/gpt-oss-120b",
+      "likes": 5114,
+      "downloads": 4680489,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-08-04T22:33:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "bigscience/bloom",
+      "likes": 5037,
+      "downloads": 16955,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2022-05-19T11:53:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-diffusion-3-medium",
+      "likes": 5016,
+      "downloads": 2982,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusion-single-file",
+      "createdAt": "2024-05-30T07:38:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-5.2",
+      "likes": 5014,
+      "downloads": 2765508,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-06-16T07:39:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/gpt-oss-20b",
+      "likes": 4934,
+      "downloads": 7590370,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-08-04T22:33:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "likes": 4829,
+      "downloads": 1875084,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-04-17T09:35:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-2-7b-chat-hf",
+      "likes": 4822,
+      "downloads": 793866,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-07-13T16:45:23.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+      "likes": 4719,
+      "downloads": 540624,
+      "pipeline_tag": null,
+      "library_name": "vllm",
+      "createdAt": "2023-12-10T18:47:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-2-7b",
+      "likes": 4523,
+      "downloads": 119,
+      "pipeline_tag": "text-generation",
+      "library_name": null,
+      "createdAt": "2023-07-09T07:34:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3",
+      "likes": 4241,
+      "downloads": 3308673,
+      "pipeline_tag": "image-text-to-video",
+      "library_name": "minimax-h3",
+      "createdAt": "2026-07-28T10:45:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V3",
+      "likes": 4174,
+      "downloads": 1039428,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-12-25T12:52:23.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mistral-7B-v0.1",
+      "likes": 4144,
+      "downloads": 480115,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-09-20T13:03:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "lllyasviel/ControlNet-v1-1",
+      "likes": 4106,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2023-04-12T22:41:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "baidu/Unlimited-OCR",
+      "likes": 4096,
+      "downloads": 3283791,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-06-19T09:40:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "WarriorMama777/OrangeMixs",
+      "likes": 3930,
+      "downloads": 778,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2022-12-04T14:18:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "lllyasviel/ControlNet",
+      "likes": 3834,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2023-02-08T18:51:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "coqui/XTTS-v2",
+      "likes": 3737,
+      "downloads": 8489892,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "coqui",
+      "createdAt": "2023-10-31T10:11:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-diffusion-3.5-large",
+      "likes": 3714,
+      "downloads": 76538,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-10-22T07:29:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/Janus-Pro-7B",
+      "likes": 3649,
+      "downloads": 15019,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2025-01-26T12:05:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-31B-it",
+      "likes": 3607,
+      "downloads": 9235695,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-03-11T18:22:36.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "likes": 3576,
+      "downloads": 2547549,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-07-31T07:30:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/phi-2",
+      "likes": 3501,
+      "downloads": 1616644,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-12-13T21:19:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "likes": 3491,
+      "downloads": 2390027,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2026-04-17T00:15:26.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-m3",
+      "likes": 3411,
+      "downloads": 35649761,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-01-27T17:07:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai-community/gpt2",
+      "likes": 3409,
+      "downloads": 14047465,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-7b",
+      "likes": 3399,
+      "downloads": 49449,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-02-08T22:36:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-video-diffusion-img2vid-xt",
+      "likes": 3378,
+      "downloads": 131168,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2023-11-20T23:45:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-OCR",
+      "likes": 3344,
+      "downloads": 2308775,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-10-17T06:22:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/whisper-large-v3-turbo",
+      "likes": 3252,
+      "downloads": 7896088,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2024-10-01T07:39:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "prompthero/openjourney",
+      "likes": 3238,
+      "downloads": 5717,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2022-11-08T09:44:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mistral-7B-Instruct-v0.2",
+      "likes": 3200,
+      "downloads": 1199240,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-12-11T13:18:44.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V3-0324",
+      "likes": 3158,
+      "downloads": 1121584,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-03-24T09:28:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/speaker-diarization-3.1",
+      "likes": 3131,
+      "downloads": 9874840,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "pyannote-audio",
+      "createdAt": "2023-11-16T08:19:01.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "bigcode/starcoder",
+      "likes": 2984,
+      "downloads": 9977,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-04-24T12:36:52.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/QwQ-32B",
+      "likes": 2962,
+      "downloads": 79227,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-03-05T14:16:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.3-70B-Instruct",
+      "likes": 2958,
+      "downloads": 308318,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-11-26T16:08:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "likes": 2942,
+      "downloads": 39987,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2026-02-27T08:08:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/LocateAnything-3B",
+      "likes": 2929,
+      "downloads": 105819,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-03-02T20:05:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/chatglm-6b",
+      "likes": 2919,
+      "downloads": 2169,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2023-03-13T16:28:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nari-labs/Dia-1.6B",
+      "likes": 2906,
+      "downloads": 30279,
+      "pipeline_tag": "text-to-speech",
+      "library_name": null,
+      "createdAt": "2025-04-20T05:36:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "CompVis/stable-diffusion-v-1-4-original",
+      "likes": 2881,
+      "downloads": 1,
+      "pipeline_tag": "text-to-image",
+      "library_name": "stable-diffusion",
+      "createdAt": "2022-08-20T08:42:51.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "moonshotai/Kimi-K2.5",
+      "likes": 2863,
+      "downloads": 764819,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-01-01T06:06:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "likes": 2844,
+      "downloads": 432118,
+      "pipeline_tag": "text-generation",
+      "library_name": "gguf",
+      "createdAt": "2026-06-10T07:24:02.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mistral-7B-Instruct-v0.3",
+      "likes": 2822,
+      "downloads": 3706198,
+      "pipeline_tag": null,
+      "library_name": "vllm",
+      "createdAt": "2024-05-22T09:57:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "black-forest-labs/FLUX.1-Kontext-dev",
+      "likes": 2776,
+      "downloads": 243381,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-05-28T22:23:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-bert/bert-base-uncased",
+      "likes": 2737,
+      "downloads": 105411681,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "likes": 2718,
+      "downloads": 5623400,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-15T05:59:19.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/sam3",
+      "likes": 2702,
+      "downloads": 2269451,
+      "pipeline_tag": "mask-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-11-07T05:17:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/personaplex-7b-v1",
+      "likes": 2673,
+      "downloads": 197593,
+      "pipeline_tag": "audio-to-audio",
+      "library_name": "moshi",
+      "createdAt": "2025-12-31T17:01:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/sdxl-turbo",
+      "likes": 2622,
+      "downloads": 1182395,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-11-27T15:19:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "likes": 2618,
+      "downloads": 435228,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "gguf",
+      "createdAt": "2026-06-19T14:32:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen-Image",
+      "likes": 2582,
+      "downloads": 241581,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-08-02T04:58:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.2-1B",
+      "likes": 2537,
+      "downloads": 1698782,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-18T15:03:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "hakurei/waifu-diffusion",
+      "likes": 2497,
+      "downloads": 1223,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2022-08-30T02:28:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen-Image-Edit",
+      "likes": 2484,
+      "downloads": 119248,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-08-17T08:32:01.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Kijai/WanVideo_comfy",
+      "likes": 2477,
+      "downloads": 1685633,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2025-02-25T17:54:17.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/VibeVoice-1.5B",
+      "likes": 2462,
+      "downloads": 116103,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "transformers",
+      "createdAt": "2025-08-25T13:46:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-R1-0528",
+      "likes": 2458,
+      "downloads": 188506,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-05-28T09:46:42.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "xai-org/grok-1",
+      "likes": 2440,
+      "downloads": 706,
+      "pipeline_tag": "text-generation",
+      "library_name": "grok",
+      "createdAt": "2024-03-17T05:47:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tiiuae/falcon-40b",
+      "likes": 2439,
+      "downloads": 18249,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-05-24T12:08:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "likes": 2439,
+      "downloads": 1088676,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-18T15:19:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sesame/csm-1b",
+      "likes": 2428,
+      "downloads": 150022,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "transformers",
+      "createdAt": "2025-03-06T15:36:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
+      "likes": 2413,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image",
+      "library_name": "comfyUI",
+      "createdAt": "2025-10-02T03:43:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.1-8B",
+      "likes": 2374,
+      "downloads": 991030,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-07-14T22:20:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "moonshotai/Kimi-K2-Instruct",
+      "likes": 2374,
+      "downloads": 183694,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-07-11T00:55:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-2-7b-hf",
+      "likes": 2365,
+      "downloads": 787390,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-07-13T16:16:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "likes": 2360,
+      "downloads": 5126652,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2026-08-13T08:28:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/phi-4",
+      "likes": 2291,
+      "downloads": 692314,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-12-11T11:47:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.6-27B",
+      "likes": 2276,
+      "downloads": 6615659,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-21T07:50:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Lightricks/LTX-Video",
+      "likes": 2272,
+      "downloads": 492509,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2024-10-31T12:36:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tencent/HunyuanVideo",
+      "likes": 2253,
+      "downloads": 918,
+      "pipeline_tag": "text-to-video",
+      "library_name": null,
+      "createdAt": "2024-12-01T06:00:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-2-70b-chat-hf",
+      "likes": 2208,
+      "downloads": 10591,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-07-14T18:02:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "likes": 2183,
+      "downloads": 3001999,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2026-07-17T00:27:17.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ByteDance/SDXL-Lightning",
+      "likes": 2179,
+      "downloads": 97553,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-02-20T20:03:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "lllyasviel/sd_control_collection",
+      "likes": 2133,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2023-08-29T06:43:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4-Flash",
+      "likes": 2125,
+      "downloads": 1828197,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-04-22T06:04:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-5",
+      "likes": 2121,
+      "downloads": 125598,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-02-11T04:55:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+      "likes": 2105,
+      "downloads": 1323776,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-11-06T07:49:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "circlestone-labs/Anima",
+      "likes": 2098,
+      "downloads": 791317,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2026-01-29T21:17:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/clip-vit-large-patch14",
+      "likes": 2070,
+      "downloads": 6348020,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+      "likes": 2070,
+      "downloads": 10768,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-10-12T02:37:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-diffusion-xl-refiner-1.0",
+      "likes": 2063,
+      "downloads": 126770,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-07-26T07:38:01.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "black-forest-labs/FLUX.2-dev",
+      "likes": 2059,
+      "downloads": 825840,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-11-22T15:07:08.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/chatglm2-6b",
+      "likes": 2057,
+      "downloads": 461245,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2023-06-24T16:26:27.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-4.7",
+      "likes": 2053,
+      "downloads": 70074,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-12-22T07:45:52.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "briaai/RMBG-1.4",
+      "likes": 2013,
+      "downloads": 419051,
+      "pipeline_tag": "image-segmentation",
+      "library_name": "transformers",
+      "createdAt": "2023-12-12T19:52:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-3-27b-it",
+      "likes": 2012,
+      "downloads": 627457,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-03-01T19:10:19.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "likes": 2006,
+      "downloads": 318780,
+      "pipeline_tag": "text-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2026-05-03T00:33:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-OCR",
+      "likes": 1994,
+      "downloads": 2946773,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-01-30T04:24:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-Omni-7B",
+      "likes": 1925,
+      "downloads": 307043,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2025-03-22T02:27:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "likes": 1921,
+      "downloads": 672490,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2026-03-04T00:24:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "likes": 1896,
+      "downloads": 2262998,
+      "pipeline_tag": "text-to-speech",
+      "library_name": null,
+      "createdAt": "2026-01-21T08:56:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "h94/IP-Adapter-FaceID",
+      "likes": 1876,
+      "downloads": 211296,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-12-20T03:15:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mistral-7B-Instruct-v0.1",
+      "likes": 1850,
+      "downloads": 189096,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-09-27T14:31:52.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HuggingFaceH4/zephyr-7b-beta",
+      "likes": 1849,
+      "downloads": 125047,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-10-26T11:25:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/embeddinggemma-300m",
+      "likes": 1849,
+      "downloads": 2629807,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-07-17T19:53:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/Florence-2-large",
+      "likes": 1848,
+      "downloads": 700834,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-06-15T00:34:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-9B",
+      "likes": 1841,
+      "downloads": 13660443,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-27T12:58:26.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-5.1",
+      "likes": 1841,
+      "downloads": 78949,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-04-03T09:28:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Lightricks/LTX-2.3",
+      "likes": 1826,
+      "downloads": 1615666,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2026-03-04T22:28:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mixtral-8x7B-v0.1",
+      "likes": 1825,
+      "downloads": 48728,
+      "pipeline_tag": null,
+      "library_name": "vllm",
+      "createdAt": "2023-12-01T09:42:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-4.7-Flash",
+      "likes": 1820,
+      "downloads": 2003024,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-01-19T06:28:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "CohereLabs/c4ai-command-r-plus",
+      "likes": 1815,
+      "downloads": 361,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-04-03T13:27:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "xinsir/controlnet-union-sdxl-1.0",
+      "likes": 1811,
+      "downloads": 111295,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-07-07T07:41:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/whisper-large-v2",
+      "likes": 1802,
+      "downloads": 111875,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-12-05T18:42:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tencent/Hunyuan3D-2",
+      "likes": 1801,
+      "downloads": 126515,
+      "pipeline_tag": "image-to-3d",
+      "library_name": "hunyuan3d-2",
+      "createdAt": "2025-01-20T06:55:37.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Lightricks/LTX-2",
+      "likes": 1776,
+      "downloads": 383861,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2026-01-03T10:23:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ResembleAI/chatterbox",
+      "likes": 1755,
+      "downloads": 2021431,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "chatterbox",
+      "createdAt": "2025-04-24T12:03:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/QwQ-32B-Preview",
+      "likes": 1743,
+      "downloads": 33938,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-11-27T15:50:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "thinkingmachines/Inkling",
+      "likes": 1737,
+      "downloads": 135032,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-07-14T13:23:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dreamlike-art/dreamlike-photoreal-2.0",
+      "likes": 1732,
+      "downloads": 8522,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-01-04T03:01:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+      "likes": 1732,
+      "downloads": 2390091,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-12-30T06:27:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/privacy-filter",
+      "likes": 1727,
+      "downloads": 456933,
+      "pipeline_tag": "token-classification",
+      "library_name": "transformers",
+      "createdAt": "2026-04-17T21:38:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-models/Muse-Glimmer-30B",
+      "likes": 1718,
+      "downloads": 478622,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-08-09T17:51:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/OmniParser",
+      "likes": 1714,
+      "downloads": 514,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-10-07T23:32:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "moonshotai/Kimi-K2-Thinking",
+      "likes": 1712,
+      "downloads": 53426,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-11-04T08:25:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mattshumer/Reflection-Llama-3.1-70B",
+      "likes": 1710,
+      "downloads": 423,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-05T18:29:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+      "likes": 1706,
+      "downloads": 22557,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "mlx",
+      "createdAt": "2026-04-04T03:02:08.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V3-Base",
+      "likes": 1704,
+      "downloads": 25164,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2024-12-25T12:52:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/Phi-3-mini-128k-instruct",
+      "likes": 1703,
+      "downloads": 257297,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-04-22T16:26:23.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mistral-Nemo-Instruct-2407",
+      "likes": 1693,
+      "downloads": 413304,
+      "pipeline_tag": null,
+      "library_name": "vllm",
+      "createdAt": "2024-07-17T17:26:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "likes": 1681,
+      "downloads": 9566668,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-01-26T09:26:37.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "2Noise/ChatTTS",
+      "likes": 1668,
+      "downloads": 2819,
+      "pipeline_tag": "text-to-audio",
+      "library_name": "chat_tts",
+      "createdAt": "2024-05-25T06:07:38.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
+      "likes": 1649,
+      "downloads": 0,
+      "pipeline_tag": "image-to-video",
+      "library_name": "wan2.2",
+      "createdAt": "2025-07-30T16:39:44.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "PaddlePaddle/PaddleOCR-VL",
+      "likes": 1647,
+      "downloads": 8440,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "PaddleOCR",
+      "createdAt": "2025-10-16T10:14:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+      "likes": 1634,
+      "downloads": 130423,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-09-18T16:47:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "docling-project/SmolDocling-256M-preview",
+      "likes": 1618,
+      "downloads": 31571,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-02-12T15:40:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/Phi-4-multimodal-instruct",
+      "likes": 1613,
+      "downloads": 447805,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2025-02-24T22:33:32.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/bart-large-cnn",
+      "likes": 1608,
+      "downloads": 1458637,
+      "pipeline_tag": "summarization",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Coder-Next",
+      "likes": 1608,
+      "downloads": 519436,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-01-30T15:08:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+      "likes": 1598,
+      "downloads": 642149,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-01-20T09:19:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/bart-large-mnli",
+      "likes": 1596,
+      "downloads": 3242350,
+      "pipeline_tag": "zero-shot-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nanonets/Nanonets-OCR-s",
+      "likes": 1592,
+      "downloads": 221462,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-06-10T10:02:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "moonshotai/Kimi-K2.6",
+      "likes": 1591,
+      "downloads": 800788,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-14T04:23:36.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "gsdf/Counterfeit-V2.5",
+      "likes": 1586,
+      "downloads": 10830,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-02-02T14:02:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Chain-GPT/Solidity-LLM",
+      "likes": 1579,
+      "downloads": 173,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-05-22T05:40:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "likes": 1578,
+      "downloads": 8486493,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-18T15:12:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+      "likes": 1564,
+      "downloads": 624247,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-01-20T09:04:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-audio-open-1.0",
+      "likes": 1563,
+      "downloads": 21492,
+      "pipeline_tag": "text-to-audio",
+      "library_name": "stable-audio-tools",
+      "createdAt": "2024-05-24T05:11:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "suno/bark",
+      "likes": 1555,
+      "downloads": 38484,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "transformers",
+      "createdAt": "2023-04-25T14:44:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stepfun-ai/GOT-OCR2_0",
+      "likes": 1552,
+      "downloads": 689611,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2024-09-12T16:02:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-397B-A17B",
+      "likes": 1552,
+      "downloads": 256606,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-16T04:55:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "likes": 1551,
+      "downloads": 12116825,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-16T11:55:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "likes": 1550,
+      "downloads": 1240742,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-16T04:31:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Wan-AI/Wan2.1-T2V-14B",
+      "likes": 1549,
+      "downloads": 32463,
+      "pipeline_tag": "text-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2025-02-25T07:26:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ggerganov/whisper.cpp",
+      "likes": 1546,
+      "downloads": 0,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": null,
+      "createdAt": "2023-03-22T08:01:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/VoxCPM2",
+      "likes": 1540,
+      "downloads": 372727,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "voxcpm",
+      "createdAt": "2026-04-03T05:25:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/parakeet-tdt-0.6b-v2",
+      "likes": 1535,
+      "downloads": 437097,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "nemo",
+      "createdAt": "2025-04-15T19:31:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/segmentation-3.0",
+      "likes": 1529,
+      "downloads": 6321850,
+      "pipeline_tag": "voice-activity-detection",
+      "library_name": "pyannote-audio",
+      "createdAt": "2023-09-22T12:03:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "EleutherAI/gpt-j-6b",
+      "likes": 1526,
+      "downloads": 278984,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-0.6B",
+      "likes": 1526,
+      "downloads": 27276140,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:40:08.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Meta-Llama-3-70B-Instruct",
+      "likes": 1523,
+      "downloads": 104277,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-04-17T09:34:54.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
+      "likes": 1513,
+      "downloads": 63968,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2026-01-07T17:01:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-M2.5",
+      "likes": 1505,
+      "downloads": 677130,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-02-12T06:05:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-M2",
+      "likes": 1503,
+      "downloads": 226257,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-10-22T13:45:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-3n-E4B-it-litert-preview",
+      "likes": 1495,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2025-05-18T19:24:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/bitnet-b1.58-2B-4T",
+      "likes": 1492,
+      "downloads": 21496,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-15T04:25:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-35B-A3B",
+      "likes": 1490,
+      "downloads": 2437252,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-24T09:39:25.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-E4B-it",
+      "likes": 1490,
+      "downloads": 5405498,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2026-03-02T19:57:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Salesforce/blip-image-captioning-large",
+      "likes": 1486,
+      "downloads": 477176,
+      "pipeline_tag": "image-to-text",
+      "library_name": "transformers",
+      "createdAt": "2022-12-13T11:27:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-M3",
+      "likes": 1484,
+      "downloads": 179876,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-06-02T07:49:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "likes": 1476,
+      "downloads": 122873,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2026-03-10T19:36:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-12B-it",
+      "likes": 1473,
+      "downloads": 3288598,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2026-05-23T01:17:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/MiniMax-H3",
+      "likes": 1472,
+      "downloads": 15721667,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2026-07-30T22:36:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM-o-4_5",
+      "likes": 1470,
+      "downloads": 992448,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2026-02-03T14:10:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V3.2",
+      "likes": 1467,
+      "downloads": 1229781,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-12-01T02:34:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "likes": 1467,
+      "downloads": 402168,
+      "pipeline_tag": "text-generation",
+      "library_name": "gguf",
+      "createdAt": "2026-06-19T00:06:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-bert/bert-base-chinese",
+      "likes": 1459,
+      "downloads": 461083,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-3-4b-it",
+      "likes": 1459,
+      "downloads": 1236843,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-02-20T21:20:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "monster-labs/control_v1p_sd15_qrcode_monster",
+      "likes": 1456,
+      "downloads": 6977,
+      "pipeline_tag": null,
+      "library_name": "diffusers",
+      "createdAt": "2023-06-24T15:07:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/Phi-3-mini-4k-instruct",
+      "likes": 1453,
+      "downloads": 607855,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-04-22T16:18:17.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-2-2b-it",
+      "likes": 1453,
+      "downloads": 735908,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-07-16T10:51:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "apple/OpenELM",
+      "likes": 1452,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2024-04-17T20:01:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "webui/ControlNet-modules-safetensors",
+      "likes": 1441,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2023-02-14T20:52:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "vikhyatk/moondream2",
+      "likes": 1432,
+      "downloads": 2210424,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-03-04T18:03:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/sd-vae-ft-mse-original",
+      "likes": 1421,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image",
+      "library_name": null,
+      "createdAt": "2022-10-13T09:51:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-diffusion-xl-base-0.9",
+      "likes": 1419,
+      "downloads": 145,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-06-19T15:30:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-26B-A4B-it",
+      "likes": 1417,
+      "downloads": 9340753,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-03-11T21:25:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 1417,
+      "downloads": 611825,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusion-single-file",
+      "createdAt": "2026-07-23T07:55:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM-Llama3-V-2_5",
+      "likes": 1413,
+      "downloads": 25613,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-05-19T09:02:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-4.5",
+      "likes": 1409,
+      "downloads": 118130,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-07-20T03:25:36.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "city96/FLUX.1-dev-gguf",
+      "likes": 1403,
+      "downloads": 135888,
+      "pipeline_tag": "text-to-image",
+      "library_name": "gguf",
+      "createdAt": "2024-08-15T02:27:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "h94/IP-Adapter",
+      "likes": 1395,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-08-16T04:15:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "comfyanonymous/flux_text_encoders",
+      "likes": 1394,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2024-08-01T14:07:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Mistral-Small-3.1-24B-Instruct-2503",
+      "likes": 1377,
+      "downloads": 240885,
+      "pipeline_tag": null,
+      "library_name": "vllm",
+      "createdAt": "2025-03-11T17:04:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "briaai/RMBG-2.0",
+      "likes": 1372,
+      "downloads": 659794,
+      "pipeline_tag": "image-segmentation",
+      "library_name": "transformers",
+      "createdAt": "2024-10-29T12:14:36.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "moonshotai/Kimi-K2.7-Code",
+      "likes": 1365,
+      "downloads": 509411,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-06-11T07:51:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "lodestones/Chroma",
+      "likes": 1363,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image",
+      "library_name": "pytorch",
+      "createdAt": "2025-01-27T22:04:09.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+      "likes": 1362,
+      "downloads": 91003,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-07-22T14:52:38.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/phi-1_5",
+      "likes": 1361,
+      "downloads": 55141,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-09-10T04:03:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-M2.1",
+      "likes": 1359,
+      "downloads": 25141,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-12-20T05:45:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "likes": 1351,
+      "downloads": 55519942,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/OmniParser-v2.0",
+      "likes": 1349,
+      "downloads": 6779,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2025-02-12T01:03:38.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ByteDance/Hyper-SD",
+      "likes": 1347,
+      "downloads": 54795,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-04-20T06:34:54.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Codestral-22B-v0.1",
+      "likes": 1345,
+      "downloads": 43088,
+      "pipeline_tag": null,
+      "library_name": "vllm",
+      "createdAt": "2024-05-29T11:28:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "genmo/mochi-1-preview",
+      "likes": 1344,
+      "downloads": 3345,
+      "pipeline_tag": "text-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2024-10-22T07:36:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/all-mpnet-base-v2",
+      "likes": 1342,
+      "downloads": 25302865,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "froggeric/Qwen-Fixed-Chat-Templates",
+      "likes": 1338,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": "mlx",
+      "createdAt": "2026-04-23T15:28:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+      "likes": 1333,
+      "downloads": 395976,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-04-02T13:34:17.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-cascade",
+      "likes": 1331,
+      "downloads": 8585,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-02-06T17:58:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dots-studio/dots.ocr",
+      "likes": 1322,
+      "downloads": 299332,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "dots_ocr",
+      "createdAt": "2025-07-30T09:55:44.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/speaker-diarization",
+      "likes": 1314,
+      "downloads": 339922,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "pyannote-audio",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-8B",
+      "likes": 1309,
+      "downloads": 15650565,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:42:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "likes": 1304,
+      "downloads": 1103542,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-05-11T12:57:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "01-ai/Yi-34B",
+      "likes": 1302,
+      "downloads": 9937,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-11-01T07:03:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM-o-2_6",
+      "likes": 1297,
+      "downloads": 232457,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2025-01-12T07:40:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "k2-fsa/OmniVoice",
+      "likes": 1293,
+      "downloads": 933792,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "omnivoice",
+      "createdAt": "2026-03-30T13:43:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/flan-t5-xxl",
+      "likes": 1287,
+      "downloads": 37861,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-10-21T15:54:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen-Image-Edit-2511",
+      "likes": 1285,
+      "downloads": 242646,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-12-17T05:55:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2-VL-7B-Instruct",
+      "likes": 1284,
+      "downloads": 1620593,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-08-28T09:03:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/VibeVoice-Realtime-0.5B",
+      "likes": 1276,
+      "downloads": 645899,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "transformers",
+      "createdAt": "2025-12-04T05:32:08.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR",
+      "likes": 1275,
+      "downloads": 696194,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2026-01-21T15:04:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "fishaudio/s2-pro",
+      "likes": 1265,
+      "downloads": 480359,
+      "pipeline_tag": "text-to-speech",
+      "library_name": null,
+      "createdAt": "2026-03-09T05:48:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "prompthero/openjourney-v4",
+      "likes": 1251,
+      "downloads": 1373,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2022-12-11T17:37:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dphn/dolphin-2.5-mixtral-8x7b",
+      "likes": 1251,
+      "downloads": 589,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-12-14T00:45:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-7b-it",
+      "likes": 1250,
+      "downloads": 24178,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-02-13T01:07:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "likes": 1247,
+      "downloads": 1477930,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-08-30T09:48:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ibm-granite/granite-docling-258M",
+      "likes": 1247,
+      "downloads": 552393,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-05-19T19:53:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "intfloat/multilingual-e5-large",
+      "likes": 1242,
+      "downloads": 7538139,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-06-30T07:38:19.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Wan-AI/Wan2.2-Animate-14B",
+      "likes": 1242,
+      "downloads": 18888,
+      "pipeline_tag": "video-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2025-09-11T12:53:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-M2.7",
+      "likes": 1241,
+      "downloads": 883233,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-04-09T03:37:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "black-forest-labs/FLUX.2-klein-9B",
+      "likes": 1235,
+      "downloads": 311050,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2026-01-14T13:24:26.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen-Image-Edit-2509",
+      "likes": 1233,
+      "downloads": 465364,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-09-22T13:09:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "XLabs-AI/flux-RealismLora",
+      "likes": 1232,
+      "downloads": 14518,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2024-08-06T21:12:23.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-4.6",
+      "likes": 1232,
+      "downloads": 29038,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-09-29T18:22:51.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "likes": 1227,
+      "downloads": 513106,
+      "pipeline_tag": "text-generation",
+      "library_name": "llama.cpp",
+      "createdAt": "2026-07-04T00:24:01.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ProsusAI/finbert",
+      "likes": 1221,
+      "downloads": 4755781,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-2b",
+      "likes": 1217,
+      "downloads": 109288,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-02-08T08:11:26.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ByteDance-Seed/BAGEL-7B-MoT",
+      "likes": 1214,
+      "downloads": 670,
+      "pipeline_tag": "any-to-any",
+      "library_name": "bagel-mot",
+      "createdAt": "2025-05-19T23:27:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "likes": 1212,
+      "downloads": 1066003,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-07-31T07:04:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "lj1995/VoiceConversionWebUI",
+      "likes": 1210,
+      "downloads": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2023-01-12T16:12:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Tongyi-MAI/Z-Image",
+      "likes": 1206,
+      "downloads": 31358,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2026-01-23T10:02:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "baidu/Qianfan-OCR",
+      "likes": 1200,
+      "downloads": 111823,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-03-18T07:48:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "SWivid/F5-TTS",
+      "likes": 1195,
+      "downloads": 777516,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "f5-tts",
+      "createdAt": "2024-10-07T14:37:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ai21labs/Jamba-v0.1",
+      "likes": 1194,
+      "downloads": 12191,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-03-28T12:32:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM-V-4.6",
+      "likes": 1187,
+      "downloads": 696909,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-13T09:12:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/diffusiongemma-26B-A4B-it",
+      "likes": 1185,
+      "downloads": 2040835,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-06-09T12:40:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "impira/layoutlm-document-qa",
+      "likes": 1184,
+      "downloads": 233867,
+      "pipeline_tag": "document-question-answering",
+      "library_name": "transformers",
+      "createdAt": "2022-08-07T21:07:19.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tencent/HY-MT1.5-1.8B",
+      "likes": 1184,
+      "downloads": 8491,
+      "pipeline_tag": "translation",
+      "library_name": "transformers",
+      "createdAt": "2025-12-25T10:41:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "timbrooks/instruct-pix2pix",
+      "likes": 1177,
+      "downloads": 24525,
+      "pipeline_tag": "image-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2023-01-20T04:27:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tiiuae/falcon-40b-instruct",
+      "likes": 1176,
+      "downloads": 2896,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-05-25T10:14:36.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tencent/Hy-MT2-1.8B",
+      "likes": 1169,
+      "downloads": 30686,
+      "pipeline_tag": "translation",
+      "library_name": "transformers",
+      "createdAt": "2026-05-11T08:22:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/chatglm3-6b",
+      "likes": 1167,
+      "downloads": 83131,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2023-10-25T09:56:41.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Falconsai/nsfw_image_detection",
+      "likes": 1165,
+      "downloads": 4185079,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "createdAt": "2023-10-13T23:50:01.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Nanbeige/Nanbeige4.1-3B",
+      "likes": 1165,
+      "downloads": 19187,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-02-10T03:45:56.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "likes": 1158,
+      "downloads": 7742278,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-06-03T14:25:32.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jinaai/jina-embeddings-v3",
+      "likes": 1153,
+      "downloads": 2999950,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2024-09-05T11:56:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tiiuae/falcon-180B",
+      "likes": 1152,
+      "downloads": 74,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-08-28T23:28:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "xai-org/grok-2",
+      "likes": 1147,
+      "downloads": 7812,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2025-08-22T21:16:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tencent/Hunyuan3D-2.1",
+      "likes": 1142,
+      "downloads": 59159,
+      "pipeline_tag": "image-to-3d",
+      "library_name": "hunyuan3d-2",
+      "createdAt": "2025-06-13T16:10:02.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "hakurei/waifu-diffusion-v1-4",
+      "likes": 1141,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image",
+      "library_name": null,
+      "createdAt": "2022-10-09T06:36:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openchat/openchat_3.5",
+      "likes": 1140,
+      "downloads": 788,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-10-30T05:59:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-reranker-v2-m3",
+      "likes": 1139,
+      "downloads": 18660980,
+      "pipeline_tag": "text-classification",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-03-15T13:32:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "black-forest-labs/FLUX.1-Fill-dev",
+      "likes": 1137,
+      "downloads": 321261,
+      "pipeline_tag": null,
+      "library_name": "diffusers",
+      "createdAt": "2024-11-20T19:45:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen-Image-Layered",
+      "likes": 1136,
+      "downloads": 49296,
+      "pipeline_tag": "image-text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2025-12-17T06:02:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HuggingFaceH4/zephyr-7b-alpha",
+      "likes": 1125,
+      "downloads": 3772,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-10-09T08:45:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Llama-2-13b-chat-hf",
+      "likes": 1121,
+      "downloads": 145831,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-07-13T15:11:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.8-2.4T-A95B",
+      "likes": 1121,
+      "downloads": 14592,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-08-08T01:50:52.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/TRELLIS.2-4B",
+      "likes": 1119,
+      "downloads": 1476837,
+      "pipeline_tag": "image-to-3d",
+      "library_name": "trellis2",
+      "createdAt": "2025-12-01T02:25:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/DeepSeek-R1-GGUF",
+      "likes": 1117,
+      "downloads": 30020,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-01-20T13:09:42.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "CohereLabs/c4ai-command-r-v01",
+      "likes": 1115,
+      "downloads": 23114,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-03-11T15:50:54.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Zyphra/Zonos-v0.1-hybrid",
+      "likes": 1107,
+      "downloads": 1577,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "zonos",
+      "createdAt": "2025-02-06T22:35:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-235B-A22B",
+      "likes": 1107,
+      "downloads": 470302,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:53:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tencent/HunyuanImage-3.0",
+      "likes": 1107,
+      "downloads": 17368,
+      "pipeline_tag": "text-to-image",
+      "library_name": "transformers",
+      "createdAt": "2025-09-25T06:28:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-Music3",
+      "likes": 1106,
+      "downloads": 14471,
+      "pipeline_tag": "text-to-audio",
+      "library_name": "diffusers",
+      "createdAt": "2026-08-07T12:23:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "tiiuae/falcon-7b",
+      "likes": 1104,
+      "downloads": 916552,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-04-24T16:36:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-3-1b-it",
+      "likes": 1102,
+      "downloads": 5055589,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-03-10T12:09:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM-V-4_5",
+      "likes": 1097,
+      "downloads": 472075,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-08-24T10:39:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-Image",
+      "likes": 1096,
+      "downloads": 10025,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "createdAt": "2026-01-08T09:39:56.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/speaker-diarization-community-1",
+      "likes": 1095,
+      "downloads": 5282464,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "pyannote-audio",
+      "createdAt": "2025-04-15T21:31:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/flan-t5-base",
+      "likes": 1091,
+      "downloads": 1672886,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-10-21T10:02:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "answerdotai/ModernBERT-base",
+      "likes": 1087,
+      "downloads": 5486384,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2024-12-11T11:38:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "CohereLabs/cohere-transcribe-03-2026",
+      "likes": 1085,
+      "downloads": 607964,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2026-03-24T10:35:54.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+      "likes": 1082,
+      "downloads": 1197395,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-05-29T11:07:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-OCR-2",
+      "likes": 1081,
+      "downloads": 1361152,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-01-27T02:56:54.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "stabilityai/stable-video-diffusion-img2vid-xt-1-1",
+      "likes": 1078,
+      "downloads": 4361,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusers",
+      "createdAt": "2024-02-02T15:40:53.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM5-1B",
+      "likes": 1075,
+      "downloads": 1049909,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-05-21T07:27:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-3-270m",
+      "likes": 1074,
+      "downloads": 1327842,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-08-05T18:50:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "likes": 1070,
+      "downloads": 1236230,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2026-04-01T14:42:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/Phi-3.5-mini-instruct",
+      "likes": 1067,
+      "downloads": 960856,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-08-16T20:48:26.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/parakeet-tdt-0.6b-v3",
+      "likes": 1057,
+      "downloads": 663777,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2025-08-04T13:34:09.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-8B-Instruct",
+      "likes": 1057,
+      "downloads": 5256357,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-10-11T07:23:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "bytedance-research/Lance",
+      "likes": 1056,
+      "downloads": 383,
+      "pipeline_tag": "any-to-any",
+      "library_name": "Lance",
+      "createdAt": "2026-05-15T08:05:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openbmb/MiniCPM-V-2_6",
+      "likes": 1055,
+      "downloads": 36067,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-08-04T06:24:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/functiongemma-270m-it",
+      "likes": 1055,
+      "downloads": 41709,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-10-08T17:33:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "likes": 1055,
+      "downloads": 1143428,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "nemo",
+      "createdAt": "2026-05-15T21:52:25.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "likes": 301,
+      "downloads": 89062278,
+      "pipeline_tag": "text-ranking",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-small-en-v1.5",
+      "likes": 536,
+      "downloads": 73044660,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-09-12T05:20:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/electra-base-discriminator",
+      "likes": 154,
+      "downloads": 56129564,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "amazon/chronos-2",
+      "likes": 403,
+      "downloads": 38666803,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": "chronos-forecasting",
+      "createdAt": "2025-10-30T14:54:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "lpiccinelli/unidepth-v2-vitl14",
+      "likes": 50,
+      "downloads": 31751302,
+      "pipeline_tag": null,
+      "library_name": "UniDepth",
+      "createdAt": "2024-06-12T12:39:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-t5/t5-small",
+      "likes": 592,
+      "downloads": 22759766,
+      "pipeline_tag": "translation",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/clip-vit-base-patch32",
+      "likes": 1002,
+      "downloads": 20691539,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "likes": 101,
+      "downloads": 18345775,
+      "pipeline_tag": "image-classification",
+      "library_name": "timm",
+      "createdAt": "2022-12-16T05:38:36.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "FacebookAI/xlm-roberta-base",
+      "likes": 883,
+      "downloads": 18249880,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nomic-ai/nomic-embed-text-v1.5",
+      "likes": 892,
+      "downloads": 16423851,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-02-10T06:32:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+      "likes": 20,
+      "downloads": 16382336,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-11-25T15:06:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/opt-125m",
+      "likes": 293,
+      "downloads": 16324701,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2022-05-11T08:25:17.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-large-en-v1.5",
+      "likes": 714,
+      "downloads": 13151693,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-09-12T05:20:08.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.6-35B-A3B-FP8",
+      "likes": 355,
+      "downloads": 12567035,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-15T06:05:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "intfloat/multilingual-e5-small",
+      "likes": 389,
+      "downloads": 12538758,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-06-30T07:31:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+      "likes": 560,
+      "downloads": 12366553,
+      "pipeline_tag": "text-generation",
+      "library_name": "Model Optimizer",
+      "createdAt": "2026-05-27T18:09:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "FacebookAI/roberta-base",
+      "likes": 638,
+      "downloads": 12150026,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-base-en-v1.5",
+      "likes": 464,
+      "downloads": 11792239,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-09-11T15:04:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "likes": 907,
+      "downloads": 11504682,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-07-31T10:27:38.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "FacebookAI/roberta-large",
+      "likes": 319,
+      "downloads": 11093146,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/stable-diffusion-v1-5-archive",
+      "likes": 115,
+      "downloads": 10770067,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2024-08-29T20:40:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+      "likes": 489,
+      "downloads": 10504295,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "argmaxinc/whisperkit-coreml",
+      "likes": 201,
+      "downloads": 10466275,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "whisperkit",
+      "createdAt": "2024-02-28T08:05:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Bingsu/adetailer",
+      "likes": 762,
+      "downloads": 10298807,
+      "pipeline_tag": null,
+      "library_name": "ultralytics",
+      "createdAt": "2023-04-26T00:58:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "likes": 802,
+      "downloads": 9981080,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-17T14:10:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.6-27B-FP8",
+      "likes": 347,
+      "downloads": 9356255,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-21T07:51:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "autogluon/chronos-bolt-small",
+      "likes": 61,
+      "downloads": 8908735,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": null,
+      "createdAt": "2024-11-13T13:28:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cross-encoder/ms-marco-MiniLM-L4-v2",
+      "likes": 28,
+      "downloads": 8846411,
+      "pipeline_tag": "text-ranking",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/contriever",
+      "likes": 96,
+      "downloads": 8037405,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-4B",
+      "likes": 835,
+      "downloads": 7681585,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-27T14:45:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "distilbert/distilbert-base-uncased",
+      "likes": 934,
+      "downloads": 7456466,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "laion/clap-htsat-fused",
+      "likes": 126,
+      "downloads": 7425635,
+      "pipeline_tag": "audio-classification",
+      "library_name": "transformers",
+      "createdAt": "2023-02-16T20:45:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "autogluon/chronos-2",
+      "likes": 48,
+      "downloads": 7201120,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": "chronos-forecasting",
+      "createdAt": "2025-10-06T18:52:51.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/wespeaker-voxceleb-resnet34-LM",
+      "likes": 161,
+      "downloads": 6977400,
+      "pipeline_tag": null,
+      "library_name": "pyannote-audio",
+      "createdAt": "2023-11-13T15:32:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-3B-Instruct",
+      "likes": 552,
+      "downloads": 6969839,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-17T14:08:52.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-0.5B-Instruct",
+      "likes": 597,
+      "downloads": 6909544,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-16T11:52:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-japanese",
+      "likes": 62,
+      "downloads": 6656073,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-VL-3B-Instruct",
+      "likes": 688,
+      "downloads": 6533261,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-01-26T09:25:35.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+      "likes": 13,
+      "downloads": 6259522,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-07-23T11:27:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/z_image_turbo",
+      "likes": 824,
+      "downloads": 6149401,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2025-11-26T01:00:52.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "intfloat/multilingual-e5-base",
+      "likes": 380,
+      "downloads": 6077048,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-05-19T10:26:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-1.7B",
+      "likes": 521,
+      "downloads": 5979908,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:41:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "FacebookAI/xlm-roberta-large",
+      "likes": 525,
+      "downloads": 5593925,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/mdeberta-v3-base",
+      "likes": 232,
+      "downloads": 5132888,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+      "likes": 55,
+      "downloads": 4964586,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+      "likes": 842,
+      "downloads": 4949469,
+      "pipeline_tag": "image-to-video",
+      "library_name": "diffusion-single-file",
+      "createdAt": "2025-07-27T06:56:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-4B",
+      "likes": 683,
+      "downloads": 4882899,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:41:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ornith-ai/Ornith-1.0-9B-GGUF",
+      "likes": 658,
+      "downloads": 4864352,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-06-25T04:56:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/dinov2-small",
+      "likes": 71,
+      "downloads": 4854753,
+      "pipeline_tag": "image-feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2023-07-31T16:53:09.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ibm-granite/granite-embedding-small-english-r2",
+      "likes": 76,
+      "downloads": 4810566,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-07-17T20:41:53.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-small-zh-v1.5",
+      "likes": 138,
+      "downloads": 4808003,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2023-09-12T05:22:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/vit-base-patch16-224",
+      "likes": 991,
+      "downloads": 4778094,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
+      "likes": 65,
+      "downloads": 4605516,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-05-18T04:50:56.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nomic-ai/nomic-embed-text-v1",
+      "likes": 580,
+      "downloads": 4592919,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-01-31T20:26:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+      "likes": 50,
+      "downloads": 4536521,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-17T13:55:09.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "meta-llama/Prompt-Guard-86M",
+      "likes": 393,
+      "downloads": 4517129,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "createdAt": "2024-07-21T19:18:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-ASR-1.7B",
+      "likes": 1027,
+      "downloads": 4498936,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": null,
+      "createdAt": "2026-01-28T03:22:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/voice-activity-detection",
+      "likes": 241,
+      "downloads": 4300717,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "pyannote-audio",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-bert/bert-base-multilingual-uncased",
+      "likes": 158,
+      "downloads": 4285667,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "datasocietyco/bge-base-en-v1.5-course-recommender-v5",
+      "likes": 1,
+      "downloads": 4244311,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-01-09T11:01:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "amazon/chronos-bolt-small",
+      "likes": 20,
+      "downloads": 4198232,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": "chronos-forecasting",
+      "createdAt": "2024-11-25T09:46:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "pyannote/segmentation",
+      "likes": 691,
+      "downloads": 4181420,
+      "pipeline_tag": "voice-activity-detection",
+      "library_name": "pyannote-audio",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-ASR-0.6B",
+      "likes": 335,
+      "downloads": 4118924,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": null,
+      "createdAt": "2026-01-28T03:15:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Embedding-4B",
+      "likes": 308,
+      "downloads": 4098379,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-06-03T14:31:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-4B-Instruct",
+      "likes": 447,
+      "downloads": 3959914,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-10-11T07:23:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+      "likes": 76,
+      "downloads": 3894696,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-NVFP4",
+      "likes": 274,
+      "downloads": 3888574,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-23T15:52:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mixedbread-ai/mxbai-embed-large-v1",
+      "likes": 823,
+      "downloads": 3851551,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-03-07T15:45:34.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-E2B-it",
+      "likes": 910,
+      "downloads": 3763110,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2026-03-02T19:58:09.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-t5/t5-base",
+      "likes": 787,
+      "downloads": 3758503,
+      "pipeline_tag": "translation",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ornith-ai/Ornith-1.0-35B-GGUF",
+      "likes": 1051,
+      "downloads": 3755113,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-06-25T04:56:44.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-reranker-base",
+      "likes": 242,
+      "downloads": 3735433,
+      "pipeline_tag": "text-classification",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-09-11T12:30:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/all-MiniLM-L12-v2",
+      "likes": 326,
+      "downloads": 3661769,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+      "likes": 941,
+      "downloads": 3591149,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-32B",
+      "likes": 736,
+      "downloads": 3557029,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:52:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-bert/bert-base-cased",
+      "likes": 369,
+      "downloads": 3539874,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "laion/CLIP-ViT-B-32-laion2B-s34B-b79K",
+      "likes": 141,
+      "downloads": 3529629,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "open_clip",
+      "createdAt": "2022-09-14T22:49:28.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "EleutherAI/pythia-160m",
+      "likes": 45,
+      "downloads": 3454817,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-02-08T19:25:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "hmellor/tiny-random-LlamaForCausalLM",
+      "likes": 1,
+      "downloads": 3360122,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-29T21:47:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ornith-ai/Ornith-1.0-35B",
+      "likes": 504,
+      "downloads": 3290380,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-06-21T03:30:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/clip-vit-large-patch14-336",
+      "likes": 308,
+      "downloads": 3288943,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-04-22T14:57:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-4B-Instruct-2507",
+      "likes": 930,
+      "downloads": 3277786,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-08-05T10:58:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/wav2vec2-base",
+      "likes": 124,
+      "downloads": 3157541,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "charactr/vocos-mel-24khz",
+      "likes": 42,
+      "downloads": 3120079,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2023-06-11T16:38:37.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-2B",
+      "likes": 369,
+      "downloads": 3097484,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-28T23:56:16.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+      "likes": 489,
+      "downloads": 3075139,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2026-01-21T08:57:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "usyd-community/vitpose-plus-base",
+      "likes": 33,
+      "downloads": 3046681,
+      "pipeline_tag": "keypoint-detection",
+      "library_name": "transformers",
+      "createdAt": "2025-01-08T12:42:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "likes": 825,
+      "downloads": 2982673,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-15T01:21:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "TostAI/nsfw-image-detection-large",
+      "likes": 23,
+      "downloads": 2965556,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2024-09-13T19:18:59.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "autogluon/chronos-bolt-tiny",
+      "likes": 13,
+      "downloads": 2926656,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": null,
+      "createdAt": "2024-11-13T13:28:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/paraphrase-MiniLM-L6-v2",
+      "likes": 150,
+      "downloads": 2924240,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Embedding-8B",
+      "likes": 778,
+      "downloads": 2903750,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-06-03T14:39:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-0.8B",
+      "likes": 671,
+      "downloads": 2881964,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-28T23:57:01.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/deberta-v3-base",
+      "likes": 434,
+      "downloads": 2824802,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-14B-Instruct",
+      "likes": 359,
+      "downloads": 2822835,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-16T11:56:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "E-MIMIC/inclusively-reformulation-it5",
+      "likes": 2,
+      "downloads": 2818164,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2023-06-23T15:06:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-27B",
+      "likes": 1031,
+      "downloads": 2817727,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-24T09:41:56.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/Florence-2-base",
+      "likes": 393,
+      "downloads": 2803973,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-06-15T00:57:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cyankiwi/Qwen3.6-27B-AWQ-INT4",
+      "likes": 109,
+      "downloads": 2797743,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-22T18:53:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Reranker-4B",
+      "likes": 153,
+      "downloads": 2788162,
+      "pipeline_tag": "text-ranking",
+      "library_name": "transformers",
+      "createdAt": "2025-06-03T14:46:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/whisper-small",
+      "likes": 583,
+      "downloads": 2765618,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-09-26T06:51:27.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ibm-granite/granite-4.1-8b",
+      "likes": 252,
+      "downloads": 2718918,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-04-06T13:18:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "RadixArk/Kimi-K3-DSpark",
+      "likes": 52,
+      "downloads": 2711095,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-07-27T10:51:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "NeoQuasar/Kronos-Tokenizer-base",
+      "likes": 69,
+      "downloads": 2709731,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": "pytorch",
+      "createdAt": "2025-06-30T16:55:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "llava-hf/llava-1.5-7b-hf",
+      "likes": 370,
+      "downloads": 2709315,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2023-12-05T09:31:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "w11wo/indonesian-roberta-base-posp-tagger",
+      "likes": 10,
+      "downloads": 2698516,
+      "pipeline_tag": "token-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Xenova/all-MiniLM-L6-v2",
+      "likes": 143,
+      "downloads": 2694111,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers.js",
+      "createdAt": "2023-05-02T22:46:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-8B-Instruct-FP8",
+      "likes": 79,
+      "downloads": 2668862,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-10-11T09:43:02.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cyankiwi/gemma-4-26B-A4B-it-AWQ-4bit",
+      "likes": 93,
+      "downloads": 2668520,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-03T00:28:19.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-30B-A3B",
+      "likes": 926,
+      "downloads": 2660523,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:43:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "datalab-to/chandra-ocr-2",
+      "likes": 479,
+      "downloads": 2647368,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-03-16T20:47:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "daekeun-ml/koelectra-small-v3-nsmc",
+      "likes": 7,
+      "downloads": 2635665,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/all-distilroberta-v1",
+      "likes": 43,
+      "downloads": 2599822,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-2B-Instruct",
+      "likes": 449,
+      "downloads": 2563742,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-10-19T13:13:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+      "likes": 962,
+      "downloads": 2542387,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2025-02-25T21:27:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-0.5B",
+      "likes": 437,
+      "downloads": 2538779,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-15T12:15:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-NVFP4",
+      "likes": 111,
+      "downloads": 2521788,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-23T07:12:17.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-polish",
+      "likes": 12,
+      "downloads": 2521305,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "patrickjohncyh/fashion-clip",
+      "likes": 289,
+      "downloads": 2514431,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2023-02-21T19:51:47.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+      "likes": 99,
+      "downloads": 2502920,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2024-05-02T21:02:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen-72B",
+      "likes": 361,
+      "downloads": 2501855,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2023-11-26T16:16:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "BAAI/bge-reranker-large",
+      "likes": 467,
+      "downloads": 2479062,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2023-09-12T07:39:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/whisper-base",
+      "likes": 286,
+      "downloads": 2465863,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-09-26T06:50:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "trl-internal-testing/tiny-Qwen2ForSequenceClassification-2.5",
+      "likes": 1,
+      "downloads": 2414280,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "createdAt": "2025-01-14T11:08:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/Gemma-4-31B-IT-NVFP4",
+      "likes": 558,
+      "downloads": 2388034,
+      "pipeline_tag": "text-generation",
+      "library_name": "Model Optimizer",
+      "createdAt": "2026-04-02T16:47:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "distilbert/distilgpt2",
+      "likes": 637,
+      "downloads": 2366813,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+      "likes": 181,
+      "downloads": 2359545,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-11-06T07:49:46.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/dinov2-base",
+      "likes": 193,
+      "downloads": 2353584,
+      "pipeline_tag": "image-feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2023-07-17T16:44:29.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+      "likes": 778,
+      "downloads": 2340769,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-17T13:38:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "ornith-ai/Ornith-1.0-9B",
+      "likes": 535,
+      "downloads": 2334991,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-06-21T04:27:07.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+      "likes": 949,
+      "downloads": 2324297,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "vllm",
+      "createdAt": "2026-01-21T17:22:02.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "michaelfeil/bge-small-en-v1.5",
+      "likes": 3,
+      "downloads": 2321185,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-03-12T05:20:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "autogluon/chronos-2-small",
+      "likes": 4,
+      "downloads": 2312635,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": "chronos-forecasting",
+      "createdAt": "2025-12-03T10:53:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/siglip2-giant-opt-patch16-384",
+      "likes": 43,
+      "downloads": 2298523,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2025-02-17T20:46:32.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Reranker-0.6B",
+      "likes": 388,
+      "downloads": 2290146,
+      "pipeline_tag": "text-ranking",
+      "library_name": "transformers",
+      "createdAt": "2025-05-29T13:30:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "StanfordAIMI/stanford-deidentifier-base",
+      "likes": 84,
+      "downloads": 2288503,
+      "pipeline_tag": "token-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-06-16T18:24:42.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+      "likes": 37,
+      "downloads": 2259814,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-17T13:55:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HuggingFaceTB/SmolLM2-135M",
+      "likes": 226,
+      "downloads": 2257474,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-10-31T00:46:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mlx-community/parakeet-tdt-0.6b-v2",
+      "likes": 45,
+      "downloads": 2243785,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "mlx",
+      "createdAt": "2025-05-06T14:30:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Xenova/bge-base-en-v1.5",
+      "likes": 10,
+      "downloads": 2231078,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers.js",
+      "createdAt": "2023-09-13T15:48:03.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "emilyalsentzer/Bio_ClinicalBERT",
+      "likes": 437,
+      "downloads": 2214550,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/paraphrase-MiniLM-L3-v2",
+      "likes": 30,
+      "downloads": 2206801,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/esm2_t33_650M_UR50D",
+      "likes": 86,
+      "downloads": 2198149,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-09-27T14:36:16.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "docling-project/docling-models",
+      "likes": 215,
+      "downloads": 2190276,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2024-07-02T12:26:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-14B-AWQ",
+      "likes": 73,
+      "downloads": 2186938,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-05-01T10:46:38.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Alibaba-NLP/gte-reranker-modernbert-base",
+      "likes": 98,
+      "downloads": 2170071,
+      "pipeline_tag": "text-ranking",
+      "library_name": "transformers",
+      "createdAt": "2025-01-20T05:46:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "autogluon/chronos-bolt-base",
+      "likes": 34,
+      "downloads": 2157444,
+      "pipeline_tag": "time-series-forecasting",
+      "library_name": null,
+      "createdAt": "2024-11-13T13:07:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "intfloat/multilingual-e5-large-instruct",
+      "likes": 632,
+      "downloads": 2150548,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2024-02-08T12:59:32.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-32B-Instruct",
+      "likes": 355,
+      "downloads": 2142976,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-09-17T04:17:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-14B",
+      "likes": 443,
+      "downloads": 2132580,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-04-27T03:42:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Salesforce/blip-image-captioning-base",
+      "likes": 881,
+      "downloads": 2129302,
+      "pipeline_tag": "image-to-text",
+      "library_name": "transformers",
+      "createdAt": "2022-12-12T15:19:02.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-122B-A10B",
+      "likes": 609,
+      "downloads": 2128005,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-24T09:43:37.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cross-encoder/ms-marco-MiniLM-L12-v2",
+      "likes": 110,
+      "downloads": 2123285,
+      "pipeline_tag": "text-ranking",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2-VL-2B-Instruct",
+      "likes": 518,
+      "downloads": 2115144,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-08-28T09:02:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/Krea-2",
+      "likes": 461,
+      "downloads": 2099207,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2026-06-16T22:31:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google-bert/bert-base-multilingual-cased",
+      "likes": 602,
+      "downloads": 2081943,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/esmfold_v1",
+      "likes": 53,
+      "downloads": 2065106,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-11-01T18:24:14.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2.5-VL-32B-Instruct-AWQ",
+      "likes": 64,
+      "downloads": 2048604,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-03-26T12:20:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "timm/resnet50.a1_in1k",
+      "likes": 43,
+      "downloads": 2042757,
+      "pipeline_tag": "image-classification",
+      "library_name": "timm",
+      "createdAt": "2023-04-05T18:07:45.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/bigvgan_v2_22khz_80band_256x",
+      "likes": 33,
+      "downloads": 2039650,
+      "pipeline_tag": "audio-to-audio",
+      "library_name": "PyTorch",
+      "createdAt": "2024-07-15T14:07:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-dutch",
+      "likes": 17,
+      "downloads": 2027944,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "timm/tf_efficientnetv2_s.in21k_ft_in1k",
+      "likes": 4,
+      "downloads": 2022942,
+      "pipeline_tag": "image-classification",
+      "library_name": "timm",
+      "createdAt": "2022-12-13T00:19:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf",
+      "likes": 4,
+      "downloads": 1992482,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transcribe.cpp",
+      "createdAt": "2026-06-07T00:46:51.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/w2v-bert-2.0",
+      "likes": 227,
+      "downloads": 1972350,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2023-12-19T07:41:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "openai/clip-vit-base-patch16",
+      "likes": 166,
+      "downloads": 1961342,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/musicgen-medium",
+      "likes": 165,
+      "downloads": 1953972,
+      "pipeline_tag": "text-to-audio",
+      "library_name": "transformers",
+      "createdAt": "2023-06-08T17:28:18.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "likes": 1009,
+      "downloads": 1943039,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": null,
+      "createdAt": "2026-04-02T22:29:19.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/paraphrase-mpnet-base-v2",
+      "likes": 49,
+      "downloads": 1942939,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
+      "likes": 15,
+      "downloads": 1941209,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/deberta-v3-large",
+      "likes": 285,
+      "downloads": 1938972,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dslim/bert-base-NER",
+      "likes": 729,
+      "downloads": 1922119,
+      "pipeline_tag": "token-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "intfloat/e5-large-v2",
+      "likes": 282,
+      "downloads": 1917564,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-05-19T07:23:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers-testing/stsb-bert-tiny-safetensors",
+      "likes": 4,
+      "downloads": 1900661,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2023-11-06T13:20:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "RedHatAI/gemma-4-31B-it-FP8-block",
+      "likes": 44,
+      "downloads": 1896018,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-03T15:20:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "farbodtavakkoli/OTel-LLM-E4B-IT",
+      "likes": 0,
+      "downloads": 1882986,
+      "pipeline_tag": "text-generation",
+      "library_name": null,
+      "createdAt": "2026-06-17T18:27:16.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/parakeet-ctc-1.1b",
+      "likes": 58,
+      "downloads": 1875294,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "nemo",
+      "createdAt": "2023-12-28T15:27:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "peft-internal-testing/tiny-clip-text-2",
+      "likes": 2,
+      "downloads": 1872787,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2023-09-20T16:25:32.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/TRELLIS-image-large",
+      "likes": 672,
+      "downloads": 1869393,
+      "pipeline_tag": "image-to-3d",
+      "library_name": "trellis",
+      "createdAt": "2024-12-02T13:02:21.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Systran/faster-whisper-small",
+      "likes": 44,
+      "downloads": 1867161,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "ctranslate2",
+      "createdAt": "2023-11-23T09:53:51.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "speechbrain/spkrec-ecapa-voxceleb",
+      "likes": 341,
+      "downloads": 1854264,
+      "pipeline_tag": null,
+      "library_name": "speechbrain",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/Qwen-Image_ComfyUI",
+      "likes": 470,
+      "downloads": 1846804,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2025-08-05T02:44:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "docling-project/docling-layout-heron",
+      "likes": 53,
+      "downloads": 1838377,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2025-04-15T12:36:48.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/siglip-so400m-patch14-384",
+      "likes": 682,
+      "downloads": 1832171,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "transformers",
+      "createdAt": "2024-01-08T13:38:32.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "zai-org/GLM-5.2-FP8",
+      "likes": 256,
+      "downloads": 1826548,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-06-16T07:20:33.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "rhasspy/faster-whisper-tiny-int8",
+      "likes": 7,
+      "downloads": 1825158,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2024-03-10T18:22:26.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
+      "likes": 193,
+      "downloads": 1821682,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "facebook/wav2vec2-base-960h",
+      "likes": 402,
+      "downloads": 1814095,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.5-122B-A10B-FP8",
+      "likes": 114,
+      "downloads": 1809311,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-02-25T13:01:23.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "handy-computer/parakeet-unified-en-0.6b-gguf",
+      "likes": 4,
+      "downloads": 1809092,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transcribe.cpp",
+      "createdAt": "2026-05-10T11:26:24.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+      "likes": 79,
+      "downloads": 1803024,
+      "pipeline_tag": "text-ranking",
+      "library_name": "sentence-transformers",
+      "createdAt": "2022-06-01T08:27:31.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "likes": 827,
+      "downloads": 1788273,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-07-28T07:31:27.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "microsoft/resnet-50",
+      "likes": 506,
+      "downloads": 1784197,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-16T15:42:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "laion/CLIP-convnext_base_w-laion2B-s13B-b82K-augreg",
+      "likes": 9,
+      "downloads": 1771629,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "open_clip",
+      "createdAt": "2023-01-10T01:34:39.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2-1.5B-Instruct",
+      "likes": 164,
+      "downloads": 1761305,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-06-03T09:08:12.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dima806/fairface_age_image_detection",
+      "likes": 80,
+      "downloads": 1756165,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "createdAt": "2024-12-06T14:59:20.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+      "likes": 171,
+      "downloads": 1753452,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-04-17T00:40:00.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-31B-it-qat-w4a16-ct",
+      "likes": 59,
+      "downloads": 1749287,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-06-04T22:30:30.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HuggingFaceTB/SmolLM2-135M-Instruct",
+      "likes": 400,
+      "downloads": 1745327,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-10-31T13:41:10.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "timm/resnet18.a1_in1k",
+      "likes": 14,
+      "downloads": 1743126,
+      "pipeline_tag": "image-classification",
+      "library_name": "timm",
+      "createdAt": "2023-04-05T18:02:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+      "likes": 179,
+      "downloads": 1741590,
+      "pipeline_tag": "text-generation",
+      "library_name": "mlx",
+      "createdAt": "2026-07-04T00:24:22.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-mlx-1bit",
+      "likes": 216,
+      "downloads": 1725270,
+      "pipeline_tag": "text-generation",
+      "library_name": "mlx",
+      "createdAt": "2026-07-04T00:24:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dbmdz/bert-large-cased-finetuned-conll03-english",
+      "likes": 97,
+      "downloads": 1701170,
+      "pipeline_tag": "token-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen2-VL-7B-Instruct-AWQ",
+      "likes": 48,
+      "downloads": 1693352,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2024-08-29T02:42:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "onnx-community/Kokoro-82M-v1.0-ONNX",
+      "likes": 250,
+      "downloads": 1685442,
+      "pipeline_tag": "text-to-speech",
+      "library_name": "transformers.js",
+      "createdAt": "2025-02-07T11:07:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+      "likes": 427,
+      "downloads": 1684967,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-03-10T18:33:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-Embedding-8B",
+      "likes": 471,
+      "downloads": 1677363,
+      "pipeline_tag": "sentence-similarity",
+      "library_name": "sentence-transformers",
+      "createdAt": "2026-01-07T03:02:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "jonatasgrosman/wav2vec2-large-xlsr-53-greek",
+      "likes": 4,
+      "downloads": 1669761,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-8B-AWQ",
+      "likes": 53,
+      "downloads": 1667331,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-05-03T03:20:49.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "likes": 457,
+      "downloads": 1647516,
+      "pipeline_tag": "text-generation",
+      "library_name": "gguf",
+      "createdAt": "2026-04-26T07:54:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-Reranker-2B",
+      "likes": 214,
+      "downloads": 1647237,
+      "pipeline_tag": "text-ranking",
+      "library_name": "transformers",
+      "createdAt": "2026-01-07T03:10:13.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "prajjwal1/bert-tiny",
+      "likes": 147,
+      "downloads": 1637759,
+      "pipeline_tag": null,
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "mlx-community/parakeet-tdt-0.6b-v3",
+      "likes": 52,
+      "downloads": 1613700,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "mlx",
+      "createdAt": "2025-08-16T04:58:50.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Comfy-Org/flux2-dev",
+      "likes": 293,
+      "downloads": 1610613,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "createdAt": "2025-11-25T02:18:57.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Systran/faster-whisper-base",
+      "likes": 33,
+      "downloads": 1609254,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "ctranslate2",
+      "createdAt": "2023-11-23T09:52:40.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-w4a16-ct",
+      "likes": 56,
+      "downloads": 1585989,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2026-06-05T02:50:55.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-Coder-Next-FP8",
+      "likes": 172,
+      "downloads": 1575095,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2026-02-01T12:22:41.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3-VL-32B-Instruct",
+      "likes": 234,
+      "downloads": 1570388,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-10-19T12:30:41.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+      "likes": 178,
+      "downloads": 1570072,
+      "pipeline_tag": "any-to-any",
+      "library_name": "transformers",
+      "createdAt": "2026-04-24T16:09:58.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+      "likes": 77,
+      "downloads": 1569130,
+      "pipeline_tag": "feature-extraction",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "dropbox-dash/faster-whisper-large-v3-turbo",
+      "likes": 67,
+      "downloads": 1568315,
+      "pipeline_tag": null,
+      "library_name": null,
+      "createdAt": "2024-10-08T08:28:11.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "nvidia/Gemma-4-26B-A4B-NVFP4",
+      "likes": 129,
+      "downloads": 1560310,
+      "pipeline_tag": "text-generation",
+      "library_name": "Model Optimizer",
+      "createdAt": "2026-05-01T01:26:06.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "distilbert/distilroberta-base",
+      "likes": 179,
+      "downloads": 1556284,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:04.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "bigscience/bloomz-560m",
+      "likes": 138,
+      "downloads": 1550704,
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2022-10-08T16:14:42.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "neuralmind/bert-large-portuguese-cased",
+      "likes": 74,
+      "downloads": 1548815,
+      "pipeline_tag": "fill-mask",
+      "library_name": "transformers",
+      "createdAt": "2022-03-02T23:29:05.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "laion/CLIP-ViT-L-14-laion2B-s32B-b82K",
+      "likes": 65,
+      "downloads": 1522452,
+      "pipeline_tag": "zero-shot-image-classification",
+      "library_name": "open_clip",
+      "createdAt": "2022-09-14T22:51:37.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "rizvandwiki/gender-classification",
+      "likes": 63,
+      "downloads": 1520190,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "createdAt": "2022-12-06T08:53:43.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "depth-anything/Depth-Anything-V2-Small-hf",
+      "likes": 44,
+      "downloads": 1519391,
+      "pipeline_tag": "depth-estimation",
+      "library_name": "transformers",
+      "createdAt": "2024-06-18T10:01:15.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+      "likes": 170,
+      "downloads": 1519297,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2025-02-11T07:06:38.000Z",
+      "lastModified": null
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B-FP8",
+      "likes": 633,
+      "downloads": 1517643,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "createdAt": "2026-08-13T08:01:58.000Z",
+      "lastModified": null
+    }
+  ]
+}
